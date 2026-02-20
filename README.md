@@ -5,8 +5,7 @@ AI-Powered Pharmacogenomic Risk Analyzer that interprets VCF genomic files and p
 ---
 
 ## 🌍 Live Demo
-
-🔗 https://vm-svitqrya94greo9kn36t8h.vusercontent.net/
+https://pharma-guard-404.vercel.app/
 
 🎥 LinkedIn Demo Video:  
 (Add your LinkedIn video link here)

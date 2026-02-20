@@ -24,6 +24,7 @@ PharmaGuard is a full-stack pharmacogenomics web application that:
   - 🟢 Low
   - 🟡 Moderate
   - 🔴 High
+  - ⚪ Unknown / Insufficient Data
 - Displays clean color-coded UI results
 - Returns structured JSON output
 
